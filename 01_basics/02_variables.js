@@ -8,7 +8,7 @@ console.table([accountId, accountEmail, accountPassword, accountCity])
 //accountId = 333
 //TypeError: Assignment to constant variable.
 
-accountEmail = "syedbushra1821@hotmail.com"
+accountEmail = "syeda@hotmail.com"
 accountPassword = "0987654321"
 accountCity = "islamabad"
 let myName
